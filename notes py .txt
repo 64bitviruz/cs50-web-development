@@ -1,0 +1,2 @@
+git config --global user.email "d4rkw3b0@proton.me"
+  git config --global user.name "64bitviruz"
